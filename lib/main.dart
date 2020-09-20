@@ -121,9 +121,6 @@ class _CalculatorState extends State<Calculator> {
                 ),
               ],
             ),
-            SizedBox(
-              height: 10,
-            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -149,9 +146,6 @@ class _CalculatorState extends State<Calculator> {
                   callback: numClick,
                 ),
               ],
-            ),
-            SizedBox(
-              height: 10,
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -179,9 +173,6 @@ class _CalculatorState extends State<Calculator> {
                 ),
               ],
             ),
-            SizedBox(
-              height: 10,
-            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -208,9 +199,6 @@ class _CalculatorState extends State<Calculator> {
                 ),
               ],
             ),
-            SizedBox(
-              height: 10,
-            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -236,9 +224,6 @@ class _CalculatorState extends State<Calculator> {
                   callback: evaluate,
                 ),
               ],
-            ),
-            SizedBox(
-              height: 5,
             ),
           ],
         ),
